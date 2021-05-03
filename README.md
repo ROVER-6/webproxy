@@ -7,3 +7,5 @@ Made this repo so it easy for me to access on blocked networks.
 DM: ! ROVER6#3134 FOR ANY ISSUES USING THE PROXY!
 
 Proxy: https://womginbypass.herokuapp.com/
+
+Source: https://github.com/binary-person/womginx
